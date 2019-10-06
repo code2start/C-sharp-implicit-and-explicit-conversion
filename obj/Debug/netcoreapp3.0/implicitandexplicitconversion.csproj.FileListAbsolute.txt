@@ -1,0 +1,11 @@
+C:\csharp\en\implicitandexplicitconversion\bin\Debug\netcoreapp3.0\implicitandexplicitconversion.exe
+C:\csharp\en\implicitandexplicitconversion\bin\Debug\netcoreapp3.0\implicitandexplicitconversion.deps.json
+C:\csharp\en\implicitandexplicitconversion\bin\Debug\netcoreapp3.0\implicitandexplicitconversion.runtimeconfig.json
+C:\csharp\en\implicitandexplicitconversion\bin\Debug\netcoreapp3.0\implicitandexplicitconversion.runtimeconfig.dev.json
+C:\csharp\en\implicitandexplicitconversion\bin\Debug\netcoreapp3.0\implicitandexplicitconversion.dll
+C:\csharp\en\implicitandexplicitconversion\bin\Debug\netcoreapp3.0\implicitandexplicitconversion.pdb
+C:\csharp\en\implicitandexplicitconversion\obj\Debug\netcoreapp3.0\implicitandexplicitconversion.csprojAssemblyReference.cache
+C:\csharp\en\implicitandexplicitconversion\obj\Debug\netcoreapp3.0\implicitandexplicitconversion.AssemblyInfoInputs.cache
+C:\csharp\en\implicitandexplicitconversion\obj\Debug\netcoreapp3.0\implicitandexplicitconversion.AssemblyInfo.cs
+C:\csharp\en\implicitandexplicitconversion\obj\Debug\netcoreapp3.0\implicitandexplicitconversion.dll
+C:\csharp\en\implicitandexplicitconversion\obj\Debug\netcoreapp3.0\implicitandexplicitconversion.pdb
